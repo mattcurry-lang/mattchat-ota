@@ -1,8 +1,8 @@
 {
-  "version": "1.5.1",
-  "url": "https://github.com/mattcurry-lang/mattchat-ota/releases/download/v1.5.1/ota-bundle.zip",
-  "checksum": "5edd6e15189a6c73dcc4c8b55d6d5c26751f76eae0c50ebdcc4a7e1d0fde1d95",
-  "size": 24581916,
-  "publishedAt": "2026-11-25T07:49:12Z",
-  "commit": "6cfd29465dd02d6975784064b85b103b3d13ffc2"
+  "version": "1.21.1",
+  "url": "https://github.com/mattcurry-lang/mattchat-ota/releases/download/v1.21.1/ota-bundle.zip",
+  "checksum": "5c25abb88a4b6f3117bdfe7e34e5b220c5964743f4fd2c972165bb5abfc0bc1c",
+  "size": 24589914,
+  "publishedAt": "2026-11-26T15:11:04Z",
+  "commit": "7eeee2f7621e1e7b4492a542aad1067b891efabe"
 }
