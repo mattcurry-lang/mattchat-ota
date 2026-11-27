@@ -1,8 +1,8 @@
 {
-  "version": "1.56.1",
-  "url": "https://bqerkvywgxoioocbkxif.supabase.co/storage/v1/object/public/ota/1.56.1/ota-bundle.zip",
-  "checksum": "8925e093e26aa82f442e46569cad91ca5227a246f316600395dd35ea09441ece",
-  "size": 24608209,
-  "publishedAt": "2026-11-27T12:49:12Z",
-  "commit": "af6897ad6d4b9a6590fcd3a60f07c69f94728571"
+  "version": "1.57.1",
+  "url": "https://bqerkvywgxoioocbkxif.supabase.co/storage/v1/object/public/ota/1.57.1/ota-bundle.zip",
+  "checksum": "9d24ab541703fe79716b65dc0a75c7587c0d4a82a0fa495edaa337a22b8b1988",
+  "size": 24608299,
+  "publishedAt": "2026-11-27T12:54:31Z",
+  "commit": "264b53bb14b7104ba121d984b0a6482cc0bdb351"
 }
